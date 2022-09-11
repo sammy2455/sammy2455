@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sammy2455
-- 👀 I’m interested in backend developer.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on a DevOps project.
-- 📫 How to reach me in "sami-camaton@hotmail.com"
+- 👋 Hola, soy @sammy2455
+- 👀 Estoy interesado en el desarrollo de backend.
+- 🌱 Actualmente estoy aprendiendo machine learning.
+- 💞️ Busco colaborar en proyectos desafiantes que involucren desarrollo web.
+- 🖥 He realizado proyectos de backend que involucran a Laravel.
 
 <!---
 sammy2455/sammy2455 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
