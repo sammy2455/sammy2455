@@ -11,7 +11,7 @@ Currently developing [Samara](https://www.samara.center) at [he-llo](https://www
 
 ## Personal Projects
 
-- **Samara**: Storage server with an API to upload and compress images for a school web project. [See repository](https://github.com/sammy2455/amaris-symfony)
+- **Keren**: Storage server with an API to upload and compress images for a school web project. [See repository](https://github.com/sammy2455/keren-gallery)
 - **Personal Website**: A brief biography, projects and resume, made in ReactJS. [Take a look](https://www.sammy2455.com)
 - **Movies server**: This project uses [Emby](https://github.com/MediaBrowser/Emby) as the basis for providing the multimedia service, configured on a Windows server behind a proxy server and a load balancer on Linux Ubuntu. [Watch](https://emby.he-llo.com)
 - **Rommie**: A small project for anyone to register and get 100mb to put their home page on the web (still in design). [See repository](https://github.com/sammy2455/rommie-backend)
