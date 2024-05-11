@@ -33,7 +33,7 @@ Currently developing [Samara](https://www.samara.center) at [he-llo](https://www
 
 
 ## Contact me
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammy2455/) [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samii2455) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imsammycamaton) [![image](https://img.shields.io/badge/sammy2455-for--the--web-green?logo=&style=for-the-badge)](https://www.sammy2455.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammy2455/) [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samii2455) [![image](https://img.shields.io/badge/sammy2455-for--the--web-green?logo=&style=for-the-badge)](https://www.sammy2455.com)
 
 
 <!---
